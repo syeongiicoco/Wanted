@@ -1,0 +1,23 @@
+.box{
+  display:flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+
+  .search{
+    font-size: 15px;
+  }
+  
+}
+.fa-chevron-right{
+  font-size: 13px;
+
+}
+.develop{
+  margin:10px 0;
+ font-size: 13px;
+}
+.moreView{
+  font-size: 13px;
+}
+

@@ -1,0 +1,45 @@
+// .searchDevelopLeftItem{
+//   position: relative;
+//   .title{
+//     font-size: 15px;
+//   }
+//   .fa-chevron-right{
+//     position: absolute;
+//     right:0;
+//   }
+//   .develop{
+//    font-size: 13px;
+//     margin:10px 0;
+  
+//   }
+//   .moreView{
+//     font-size: 13px;
+//   }
+// }
+.box{
+  display:flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+
+  .title{
+    font-size: 15px;
+  }
+  .fa-chevron-right{
+    font-size: 13px;
+    color:gray;
+  }
+  
+}
+.develop{
+  margin:10px 0;
+ font-size: 13px;
+ color:gray;
+
+}
+
+.moreView{
+  font-size: 13px;
+  color:gray;
+
+}
